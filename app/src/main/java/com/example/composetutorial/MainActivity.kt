@@ -55,8 +55,8 @@ class MainActivity : ComponentActivity() {
     @Composable
     fun ToolBar(){
         TopAppBar(
-            title = { Text("My Application", color = Color.White)},
-            backgroundColor = Color.Blue
+            title = { Text("My test app", color = Color.White)},
+            backgroundColor = Color.Black
         )
     }
 
