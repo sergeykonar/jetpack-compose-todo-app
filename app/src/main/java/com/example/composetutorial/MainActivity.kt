@@ -41,6 +41,7 @@ import kotlin.random.Random
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        Log.e("dede", "dedd")
         Log.e("TEST", "eededd")
         Log.e("TEST", "ed")
         setContent {
