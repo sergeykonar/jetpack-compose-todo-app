@@ -43,7 +43,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         Log.e("TESdddddT", "eededd")
         Log.e("TEST", "eededd")
-        Log.e("TEST", "ed")
+        Log.e("TEST", "gited")
         setContent {
 
             Scaffold(topBar = {
